@@ -1,0 +1,1 @@
+This is a landing page assignment is made and hosted by The Odin Project. This project uses basic HTML and CSS (flex layout) ONLY.
